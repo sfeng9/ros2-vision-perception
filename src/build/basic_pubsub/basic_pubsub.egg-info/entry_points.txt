@@ -1,0 +1,4 @@
+[console_scripts]
+my_listener = basic_pubsub.my_listener:main
+my_talker = basic_pubsub.my_talker:main
+

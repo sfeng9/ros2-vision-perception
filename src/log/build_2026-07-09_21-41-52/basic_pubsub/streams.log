@@ -1,0 +1,41 @@
+[1.656s] Invoking command in '/mnt/c/Users/Edward/workspaces/robotics-portfolio/ros2-vision-perception/src/basic_pubsub': PYTHONPATH=/mnt/c/Users/Edward/workspaces/robotics-portfolio/ros2-vision-perception/src/build/basic_pubsub/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/mnt/c/Users/Edward/workspaces/robotics-portfolio/ros2-vision-perception/src/install/basic_pubsub/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/basic_pubsub build --build-base /mnt/c/Users/Edward/workspaces/robotics-portfolio/ros2-vision-perception/src/build/basic_pubsub/build install --record /mnt/c/Users/Edward/workspaces/robotics-portfolio/ros2-vision-perception/src/build/basic_pubsub/install.log --install-scripts $base/lib/basic_pubsub --single-version-externally-managed install_data
+[2.406s] running egg_info
+[2.411s] creating ../build/basic_pubsub/basic_pubsub.egg-info
+[2.415s] writing ../build/basic_pubsub/basic_pubsub.egg-info/PKG-INFO
+[2.425s] writing dependency_links to ../build/basic_pubsub/basic_pubsub.egg-info/dependency_links.txt
+[2.431s] writing entry points to ../build/basic_pubsub/basic_pubsub.egg-info/entry_points.txt
+[2.439s] writing requirements to ../build/basic_pubsub/basic_pubsub.egg-info/requires.txt
+[2.443s] writing top-level names to ../build/basic_pubsub/basic_pubsub.egg-info/top_level.txt
+[2.449s] writing manifest file '../build/basic_pubsub/basic_pubsub.egg-info/SOURCES.txt'
+[2.479s] reading manifest file '../build/basic_pubsub/basic_pubsub.egg-info/SOURCES.txt'
+[2.537s] writing manifest file '../build/basic_pubsub/basic_pubsub.egg-info/SOURCES.txt'
+[2.541s] running build
+[2.542s] running build_py
+[2.546s] creating /mnt/c/Users/Edward/workspaces/robotics-portfolio/ros2-vision-perception/src/build/basic_pubsub/build
+[2.548s] creating /mnt/c/Users/Edward/workspaces/robotics-portfolio/ros2-vision-perception/src/build/basic_pubsub/build/lib
+[2.550s] creating /mnt/c/Users/Edward/workspaces/robotics-portfolio/ros2-vision-perception/src/build/basic_pubsub/build/lib/basic_pubsub
+[2.559s] copying basic_pubsub/my_listener.py -> /mnt/c/Users/Edward/workspaces/robotics-portfolio/ros2-vision-perception/src/build/basic_pubsub/build/lib/basic_pubsub
+[2.580s] copying basic_pubsub/my_talker.py -> /mnt/c/Users/Edward/workspaces/robotics-portfolio/ros2-vision-perception/src/build/basic_pubsub/build/lib/basic_pubsub
+[2.601s] copying basic_pubsub/__init__.py -> /mnt/c/Users/Edward/workspaces/robotics-portfolio/ros2-vision-perception/src/build/basic_pubsub/build/lib/basic_pubsub
+[2.614s] running install
+[2.615s] running install_lib
+[2.635s] creating /mnt/c/Users/Edward/workspaces/robotics-portfolio/ros2-vision-perception/src/install/basic_pubsub/lib/python3.10/site-packages/basic_pubsub
+[2.653s] copying /mnt/c/Users/Edward/workspaces/robotics-portfolio/ros2-vision-perception/src/build/basic_pubsub/build/lib/basic_pubsub/my_listener.py -> /mnt/c/Users/Edward/workspaces/robotics-portfolio/ros2-vision-perception/src/install/basic_pubsub/lib/python3.10/site-packages/basic_pubsub
+[2.685s] copying /mnt/c/Users/Edward/workspaces/robotics-portfolio/ros2-vision-perception/src/build/basic_pubsub/build/lib/basic_pubsub/my_talker.py -> /mnt/c/Users/Edward/workspaces/robotics-portfolio/ros2-vision-perception/src/install/basic_pubsub/lib/python3.10/site-packages/basic_pubsub
+[2.722s] copying /mnt/c/Users/Edward/workspaces/robotics-portfolio/ros2-vision-perception/src/build/basic_pubsub/build/lib/basic_pubsub/__init__.py -> /mnt/c/Users/Edward/workspaces/robotics-portfolio/ros2-vision-perception/src/install/basic_pubsub/lib/python3.10/site-packages/basic_pubsub
+[2.750s] byte-compiling /mnt/c/Users/Edward/workspaces/robotics-portfolio/ros2-vision-perception/src/install/basic_pubsub/lib/python3.10/site-packages/basic_pubsub/my_listener.py to my_listener.cpython-310.pyc
+[2.790s] byte-compiling /mnt/c/Users/Edward/workspaces/robotics-portfolio/ros2-vision-perception/src/install/basic_pubsub/lib/python3.10/site-packages/basic_pubsub/my_talker.py to my_talker.cpython-310.pyc
+[2.830s] byte-compiling /mnt/c/Users/Edward/workspaces/robotics-portfolio/ros2-vision-perception/src/install/basic_pubsub/lib/python3.10/site-packages/basic_pubsub/__init__.py to __init__.cpython-310.pyc
+[2.864s] running install_data
+[2.872s] creating /mnt/c/Users/Edward/workspaces/robotics-portfolio/ros2-vision-perception/src/install/basic_pubsub/share/ament_index
+[2.875s] creating /mnt/c/Users/Edward/workspaces/robotics-portfolio/ros2-vision-perception/src/install/basic_pubsub/share/ament_index/resource_index
+[2.877s] creating /mnt/c/Users/Edward/workspaces/robotics-portfolio/ros2-vision-perception/src/install/basic_pubsub/share/ament_index/resource_index/packages
+[2.889s] copying resource/basic_pubsub -> /mnt/c/Users/Edward/workspaces/robotics-portfolio/ros2-vision-perception/src/install/basic_pubsub/share/ament_index/resource_index/packages
+[2.913s] copying package.xml -> /mnt/c/Users/Edward/workspaces/robotics-portfolio/ros2-vision-perception/src/install/basic_pubsub/share/basic_pubsub
+[2.927s] running install_egg_info
+[2.945s] Copying ../build/basic_pubsub/basic_pubsub.egg-info to /mnt/c/Users/Edward/workspaces/robotics-portfolio/ros2-vision-perception/src/install/basic_pubsub/lib/python3.10/site-packages/basic_pubsub-0.0.0-py3.10.egg-info
+[3.200s] running install_scripts
+[3.282s] Installing my_listener script to /mnt/c/Users/Edward/workspaces/robotics-portfolio/ros2-vision-perception/src/install/basic_pubsub/lib/basic_pubsub
+[3.292s] Installing my_talker script to /mnt/c/Users/Edward/workspaces/robotics-portfolio/ros2-vision-perception/src/install/basic_pubsub/lib/basic_pubsub
+[3.308s] writing list of installed files to '/mnt/c/Users/Edward/workspaces/robotics-portfolio/ros2-vision-perception/src/build/basic_pubsub/install.log'
+[3.337s] Invoked command in '/mnt/c/Users/Edward/workspaces/robotics-portfolio/ros2-vision-perception/src/basic_pubsub' returned '0': PYTHONPATH=/mnt/c/Users/Edward/workspaces/robotics-portfolio/ros2-vision-perception/src/build/basic_pubsub/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/mnt/c/Users/Edward/workspaces/robotics-portfolio/ros2-vision-perception/src/install/basic_pubsub/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/basic_pubsub build --build-base /mnt/c/Users/Edward/workspaces/robotics-portfolio/ros2-vision-perception/src/build/basic_pubsub/build install --record /mnt/c/Users/Edward/workspaces/robotics-portfolio/ros2-vision-perception/src/build/basic_pubsub/install.log --install-scripts $base/lib/basic_pubsub --single-version-externally-managed install_data
